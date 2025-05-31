@@ -13,9 +13,9 @@ Selain itu, studi oleh Ahmad et al. (2018) menegaskan bahwa penerapan teknik Mac
 3. Pemilihan algoritma machine learning yang tepat menjadi tantangan karena kompleksitas dan variasi data, yang berdampak pada akurasi dan keandalan model prediksi konsumsi energi.
 
 ### Goals
-1. Mengembangkan model prediktif berbasis machine learning yang akurat untuk membantu pengelola bangunan dalam mengoptimalkan penggunaan energi berdasarkan karakteristik bangunan.
+1. Mengembangkan model prediktif berbasis machine learning yang akurat untuk membantu dalam mengoptimalkan konsumsi energi berdasarkan karakteristik bangunan.
 2. Menganalisis kontribusi masing-masing fitur terhadap target variabel menggunakan pendekatan regresi.
-3. Membandingkan 2 algoritma berbeda yang digunakan dalam prediksi penggunaan energi.
+3. Membandingkan 2 algoritma berbeda yang digunakan dalam prediksi konsumsi energi .
 
 ### Solution Statements
 1. Membangun dan melatih model baseline menggunakan algoritma `Linear Regression` untuk memprediksi penggunaan energi berdasarkan fitur-fitur bangunan. Model ini dipilih karena interpretabilitasnya tinggi, sehingga dapat digunakan untuk menganalisis kontribusi tiap fitur terhadap target `Energy Consumption`. Evaluasi dilakukan menggunakan metrik seperti **MAE**, **RMSE**, **MSE** dan **R²**.
