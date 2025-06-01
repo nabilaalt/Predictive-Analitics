@@ -34,6 +34,9 @@ Dataset ini memiliki 1000 baris dan 7 fitur di antaranya:
 - `Day of Week`: Hari dalam seminggu (Weekday/Weekend), yang memengaruhi pola penggunaan energi.
 - `Energy Consumption` : Jumlah konsumsi energi
 
+Dari hasil pengecekan, dapat diketahui bahwa dataset ini bebas dari missing value dan tidak terdapat data duplikat, sehingga tidak diperlukan proses imputasi atau pembersihan data terkait hal tersebut. Selain itu, analisis visual dengan boxplot dilakukan untuk mengidentifikasi potensi keberadaan outlier pada fitur-fitur numerik. Meskipun terdapat variasi nilai yang cukup signifikan pada beberapa fitur, distribusi data secara keseluruhan masih tergolong wajar dan tidak menunjukkan adanya outlier yang ekstrim sehingga tidak memerlukan penanganan khusus.
+
+
 ### Exploratory Data Analysis (EDA):
 **1. Mengecek distribusi data numerik menggunakan histogram**
 
